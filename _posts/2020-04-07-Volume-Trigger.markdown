@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Access main program. Access main security. Access main program grid
+title: Volume Trigger
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/1.jpg'
 ---
